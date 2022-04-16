@@ -36,4 +36,5 @@ twitterBtn.addEventListener("click", ()=>{
     window.open(tweetUrl, "_blank");
 });
 
+
 quoteBtn.addEventListener("click", randomQuote);
