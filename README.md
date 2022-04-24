@@ -1,2 +1,2 @@
-# Random_Quote_Generator_Using_JavaScript_HTML_And
+# Random_Quote_Generator_Using_JavaScript_HTML_And_CSS
 
